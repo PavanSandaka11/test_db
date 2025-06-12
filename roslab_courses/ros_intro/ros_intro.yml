@@ -1,0 +1,69 @@
+# ROSLab Course Metadata
+title: "ROSLab Software & Digital Twin Introduction"
+description: "It was a learning module about lab experiments"
+category: "Robotics Middleware Framework"
+
+# Course Details
+course_id: "ros_intro_001"
+version: "1.0"
+duration_minutes: 120
+difficulty_level: "beginner"
+
+# Enrollment Information
+max_participants: 3
+current_enrollment: 3
+completion_rate: 100
+rating: 0.0
+
+# Course Structure
+modules:
+  - name: "Introduction to ROS"
+    duration: 30
+    type: "theory"
+  - name: "Digital Twin Concepts"
+    duration: 45
+    type: "interactive"
+  - name: "Lab Experiments"
+    duration: 45
+    type: "hands-on"
+
+# Prerequisites
+prerequisites:
+  - "Basic programming knowledge"
+  - "Understanding of robotics fundamentals"
+
+# Learning Objectives
+learning_objectives:
+  - "Understand ROS architecture and components"
+  - "Learn digital twin implementation basics"
+  - "Conduct practical lab experiments"
+  - "Apply middleware frameworks in robotics"
+
+# Resources
+resources:
+  lab_environment: "ROSLab Simulation"
+  required_software:
+    - "ROS Noetic/Humble"
+    - "Gazebo Simulator"
+    - "Digital Twin Framework"
+  
+# Instructor Information  
+instructors:
+  - name: "R G Rosi"
+    role: "Primary Instructor"
+  - name: "Guest"
+    role: "Guest Lecturer"
+
+# Course Status
+status: "completed"
+completion_date: "2024-12-15"
+certification_available: true
+
+# Tags for searchability
+tags:
+  - "ROS"
+  - "robotics"
+  - "digital-twin"
+  - "middleware"
+  - "simulation"
+  - "lab-experiments"

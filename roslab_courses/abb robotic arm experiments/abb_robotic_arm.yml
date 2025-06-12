@@ -1,0 +1,160 @@
+# ABB Robotic Arm Experiments Course Metadata
+title: "ABB Robotic Arm Laboratory Experiments"
+description: "Comprehensive hands-on training with ABB industrial robotic arms covering programming, operation, and advanced applications"
+category: "Industrial Robotics & Automation"
+
+# Course Details
+course_id: "abb_robotics_001"
+version: "2.1"
+duration_minutes: 240
+difficulty_level: "intermediate"
+
+# Enrollment Information
+max_participants: 8
+current_enrollment: 0
+completion_rate: 0.0
+rating: 4.7
+
+# Course Structure
+modules:
+  - name: "ABB Robot Introduction & Safety"
+    duration: 30
+    type: "theory"
+    mandatory: true
+  - name: "RobotStudio Programming Basics"
+    duration: 45
+    type: "hands-on"
+  - name: "RAPID Programming Language"
+    duration: 60
+    type: "programming"
+  - name: "Pick & Place Operations"
+    duration: 45
+    type: "lab-experiment"
+  - name: "Path Planning & Motion Control"
+    duration: 30
+    type: "simulation"
+  - name: "Advanced Applications & Integration"
+    duration: 30
+    type: "project-based"
+
+# Robot Specifications
+robot_models:
+  - model: "ABB IRB 120"
+    payload: "3 kg"
+    reach: "580 mm"
+    applications: ["Assembly", "Material Handling", "Machine Tending"]
+  - model: "ABB IRB 1600"
+    payload: "10 kg" 
+    reach: "1450 mm"
+    applications: ["Welding", "Painting", "Palletizing"]
+
+# Prerequisites
+prerequisites:
+  - "Basic understanding of industrial automation"
+  - "Familiarity with coordinate systems"
+  - "Safety training certification"
+  - "Programming fundamentals (any language)"
+
+# Learning Objectives
+learning_objectives:
+  - "Operate ABB robots safely and efficiently"
+  - "Program robots using RAPID language"
+  - "Design and implement pick-and-place applications"
+  - "Configure I/O systems and external devices"
+  - "Troubleshoot common robot programming issues"
+  - "Optimize robot motion for cycle time and accuracy"
+
+# Lab Equipment & Resources
+lab_equipment:
+  robots:
+    - "ABB IRB 120 with IRC5 Compact Controller"
+    - "ABB IRB 1600 with IRC5 Controller"
+  software:
+    - "RobotStudio 2024"
+    - "ABB Robot Web Services"
+    - "FlexPendant Programming Interface"
+  accessories:
+    - "Pneumatic grippers"
+    - "Vision system integration"
+    - "Conveyor belt systems"
+    - "Safety light curtains"
+
+# Safety Requirements
+safety_requirements:
+  - "Personal Protective Equipment (PPE) mandatory"
+  - "Emergency stop procedures training"
+  - "Lockout/Tagout (LOTO) certification"
+  - "Risk assessment completion"
+
+# Practical Experiments
+experiments:
+  - name: "Basic Motion Programming"
+    duration: 45
+    difficulty: "beginner"
+    description: "Program linear and joint movements"
+  - name: "Automated Pick & Place"
+    duration: 60
+    difficulty: "intermediate"
+    description: "Implement complete pick-place cycle with sensors"
+  - name: "Vision-Guided Operations"
+    duration: 90
+    difficulty: "advanced"
+    description: "Integrate camera system for object recognition"
+  - name: "Multi-Robot Coordination"
+    duration: 75
+    difficulty: "advanced"
+    description: "Coordinate multiple robots in shared workspace"
+
+# Assessment Methods
+assessments:
+  - type: "practical_demonstration"
+    weight: 40
+    description: "Hands-on robot programming and operation"
+  - type: "safety_quiz"
+    weight: 20
+    description: "Industrial robot safety protocols"
+  - type: "project_implementation"
+    weight: 30
+    description: "Complete automation solution design"
+  - type: "troubleshooting_exercise"
+    weight: 10
+    description: "Diagnose and resolve common issues"
+
+# Instructor Information
+instructors:
+  - name: "Dr. Sarah Mitchell"
+    role: "Lead Instructor"
+    certifications: ["ABB Certified Trainer", "Industrial Safety Specialist"]
+  - name: "Mark Thompson"
+    role: "Lab Technician"
+    certifications: ["ABB Service Engineer", "Robotics Maintenance Expert"]
+
+# Industry Connections
+industry_partnerships:
+  - "ABB Robotics Training Centers"
+  - "Local manufacturing companies"
+  - "Automation system integrators"
+
+# Course Outcomes
+career_outcomes:
+  - "ABB Robot Programming Certification"
+  - "Industrial Automation Technician roles"
+  - "Robotics System Integration positions"
+  - "Manufacturing Engineering opportunities"
+
+# Course Status
+status: "active"
+next_session: "2025-06-15"
+certification_available: true
+continuing_education_credits: 12
+
+# Tags for searchability
+tags:
+  - "ABB"
+  - "industrial-robots"
+  - "automation"
+  - "RAPID-programming"
+  - "pick-and-place"
+  - "manufacturing"
+  - "robotics-programming"
+  - "industrial-safety"
