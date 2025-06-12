@@ -22,7 +22,7 @@
     },
     {
       "title": "Control Structures",
-      "file": "chapters/03-control-structures.md",
+      "file": "chapters/03-functions.md",
       "order": 3,
       "duration": "75 minutes"
     }
