@@ -7,6 +7,7 @@
   "duration": "5 weeks",
   "published": true,
   "tags": ["python", "programming", "beginner", "coding"],
+  "image_url": "nice_image.png",
   "chapters": [
     {
       "title": "Getting Started with Python",
