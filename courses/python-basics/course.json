@@ -11,19 +11,19 @@
   "chapters": [
     {
       "title": "Getting Started with Python",
-      "file": "chapters/01-introduction.md",
+      "file": "chapters/01-introduction",
       "order": 1,
       "duration": "45 minutes"
     },
     {
       "title": "Variables and Data Types",
-      "file": "chapters/02-variables.md",
+      "file": "chapters/02-variables",
       "order": 2,
       "duration": "60 minutes"
     },
     {
       "title": "Control Structures",
-      "file": "chapters/03-functions.md",
+      "file": "chapters/03-functions",
       "order": 3,
       "duration": "75 minutes"
     }
