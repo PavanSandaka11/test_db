@@ -1,0 +1,45 @@
+{
+  "course": "python-basics",
+  "chapter": "01-introduction",
+  "lessons": [
+    {
+      "title": "What is Python and Why Learn It?",
+      "slug": "what-is-python",
+      "lesson_order": 1,
+      "duration": "15 minutes",
+      "difficulty": "beginner",
+      "prerequisites": [],
+      "objectives": [
+        "Understand what Python is and its history",
+        "Learn about Python's applications and benefits",
+        "Recognize why Python is popular for beginners"
+      ]
+    },
+    {
+      "title": "Installing Python",
+      "slug": "installing-python",
+      "lesson_order": 2,
+      "duration": "10 minutes",
+      "difficulty": "beginner",
+      "prerequisites": [],
+      "objectives": [
+        "Install Python on your operating system",
+        "Verify Python installation",
+        "Set up a development environment"
+      ]
+    },
+    {
+      "title": "Your First Python Program",
+      "slug": "first-python-program",
+      "lesson_order": 3,
+      "duration": "8 minutes",
+      "difficulty": "beginner",
+      "prerequisites": ["installing-python"],
+      "objectives": [
+        "Write your first Python program",
+        "Understand basic Python syntax",
+        "Run Python code in different ways"
+      ]
+    }
+  ]
+}
