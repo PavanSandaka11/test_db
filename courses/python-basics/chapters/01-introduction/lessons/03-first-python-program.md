@@ -1,5 +1,3 @@
-### **03-first-program.md**
-
 ---
 title: "Your First Python Program"
 slug: "first-python-program"

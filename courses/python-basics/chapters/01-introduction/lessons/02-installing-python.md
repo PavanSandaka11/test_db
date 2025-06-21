@@ -1,4 +1,3 @@
-### **02-installing-python.md**
 ---
 title: "Installing Python"
 slug: "installing-python"
