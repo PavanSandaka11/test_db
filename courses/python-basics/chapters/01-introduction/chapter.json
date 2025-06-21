@@ -1,0 +1,84 @@
+{
+  "chapter_id": "01-introduction",
+  "title": "Introduction to Python",
+  "description": "Get started with Python programming - learn what it is, install it, and write your first programs",
+  "chapter_order": 1,
+  "status": "published",
+  "estimated_duration": "30 minutes",
+  "difficulty": "beginner",
+  "prerequisites": [],
+  "learning_objectives": [
+    "Understand what Python is and its applications",
+    "Install Python on your system",
+    "Write and run your first Python program",
+    "Practice basic Python syntax through exercises"
+  ],
+  "lessons": [
+    {
+      "lesson_id": "01-what-is-python",
+      "title": "What is Python?",
+      "description": "Learn what Python is and why it's a great programming language",
+      "lesson_order": 1,
+      "duration": "5 minutes",
+      "type": "theory",
+      "file_path": "lessons/01-what-is-python.md",
+      "is_mandatory": true,
+      "quiz_questions": 2
+    },
+    {
+      "lesson_id": "02-installing-python",
+      "title": "Installing Python",
+      "description": "Step-by-step guide to install Python on Windows, macOS, and Linux",
+      "lesson_order": 2,
+      "duration": "10 minutes",
+      "type": "hands-on",
+      "file_path": "lessons/02-installing-python.md",
+      "is_mandatory": true,
+      "completion_criteria": "installation_verified"
+    },
+    {
+      "lesson_id": "03-first-program",
+      "title": "Your First Python Program",
+      "description": "Write and run your first Python program and explore the interactive shell",
+      "lesson_order": 3,
+      "duration": "8 minutes",
+      "type": "hands-on",
+      "file_path": "lessons/03-first-program.md",
+      "is_mandatory": true,
+      "code_exercises": 2
+    },
+    {
+      "lesson_id": "04-practice-exercises",
+      "title": "Quick Practice",
+      "description": "Reinforce your learning with hands-on exercises",
+      "lesson_order": 4,
+      "duration": "7 minutes",
+      "type": "practice",
+      "file_path": "lessons/04-practice-exercises.md",
+      "is_mandatory": false,
+      "code_exercises": 4
+    }
+  ],
+  "chapter_completion": {
+    "passing_score": 70,
+    "required_lessons": ["01-what-is-python", "02-installing-python", "03-first-program"],
+    "optional_lessons": ["04-practice-exercises"],
+    "final_assessment": false
+  },
+  "resources": [
+    {
+      "title": "Python Official Documentation",
+      "url": "https://docs.python.org/",
+      "type": "external_link"
+    },
+    {
+      "title": "Python Beginner's Guide",
+      "url": "https://wiki.python.org/moin/BeginnersGuide",
+      "type": "external_link"
+    }
+  ],
+  "tags": ["python", "programming", "beginner", "introduction", "setup"],
+  "created_at": "2024-06-21T00:00:00Z",
+  "updated_at": "2024-06-21T00:00:00Z",
+  "version": "1.0"
+}
