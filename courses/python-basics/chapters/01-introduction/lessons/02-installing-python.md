@@ -1,5 +1,4 @@
 ### **02-installing-python.md**
-```markdown
 ---
 title: "Installing Python"
 slug: "installing-python"
