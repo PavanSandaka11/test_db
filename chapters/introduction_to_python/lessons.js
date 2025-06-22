@@ -3,6 +3,16 @@
   "chapter": "introduction_to_python",
   "lessons": [
     {
+      "title": "test lesson",
+      "slug": "test-lesson",
+      "file": "00-test-lesson.md",
+      "lesson_order": 0,
+      "duration": "00:10:00",
+      "difficulty": "Beginner",
+      "prerequisites": [],
+      "objectives": []
+    },
+    {
       "title": "Installing Python",
       "slug": "installing-python",
       "file": "00-installing-python.md",
