@@ -3,9 +3,9 @@
   "chapter": "introduction_to_python",
   "lessons": [
     {
-      "title": "test git sync up",
-      "slug": "test-git-sync-up",
-      "file": "00-test-git-sync-up.md",
+      "title": "test git sync ",
+      "slug": "test-git-sync",
+      "file": "00-test-git-sync.md",
       "lesson_order": 0,
       "duration": "00:10:00",
       "difficulty": "Beginner",
