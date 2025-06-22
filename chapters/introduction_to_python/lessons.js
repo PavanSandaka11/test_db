@@ -3,6 +3,16 @@
   "chapter": "introduction_to_python",
   "lessons": [
     {
+      "title": "new lesson check",
+      "slug": "new-lesson-check",
+      "file": "00-new-lesson-check.md",
+      "lesson_order": 0,
+      "duration": "00:10:00",
+      "difficulty": "Beginner",
+      "prerequisites": [],
+      "objectives": []
+    },
+    {
       "title": "Installing Python",
       "slug": "installing-python",
       "file": "00-installing-python.md",
