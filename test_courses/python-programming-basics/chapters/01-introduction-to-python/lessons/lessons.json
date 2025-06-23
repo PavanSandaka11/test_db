@@ -21,9 +21,27 @@
       "objectives": []
     },
     {
-      "title": "test lesson 2 one more",
-      "slug": "test-lesson-2-one-more",
+      "title": "Your First Python Program",
+      "slug": "your-first-python-program",
       "lesson_order": 3,
+      "duration": "",
+      "difficulty": "Beginner",
+      "prerequisites": [],
+      "objectives": []
+    },
+    {
+      "title": "lets go hmm",
+      "slug": "lets-go-hmm",
+      "lesson_order": 4,
+      "duration": "",
+      "difficulty": "Beginner",
+      "prerequisites": [],
+      "objectives": []
+    },
+    {
+      "title": "nice cool",
+      "slug": "nice-cool",
+      "lesson_order": 5,
       "duration": "",
       "difficulty": "Beginner",
       "prerequisites": [],
