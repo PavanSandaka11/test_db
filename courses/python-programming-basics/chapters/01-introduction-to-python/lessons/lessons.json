@@ -1,11 +1,10 @@
 {
-  "course": "python-basics",
-  "chapter": "01-introduction",
+  "course_slug": "python-programming-basics",
+  "chapter_slug": "Getting Started with Python",
   "lessons": [
     {
       "title": "What is Python and Why Learn It?",
-      "slug": "what-is-python",
-      "file": "01-what-is-python.md",
+      "slug": "what-is-python-and-why-learn-it",
       "lesson_order": 1,
       "duration": "15 minutes",
       "difficulty": "beginner",
@@ -19,7 +18,6 @@
     {
       "title": "Installing Python",
       "slug": "installing-python",
-      "file": "02-installing-python.md",
       "lesson_order": 2,
       "duration": "10 minutes",
       "difficulty": "beginner",
@@ -33,7 +31,6 @@
     {
       "title": "Your First Python Program",
       "slug": "first-python-program",
-      "file": "03-first-python-program.md",
       "lesson_order": 3,
       "duration": "8 minutes",
       "difficulty": "beginner",

@@ -1,5 +1,6 @@
 {
   "course_name": "Python Programming Basics",
+  "slug": "python-programming-basics",
   "description": "Learn the fundamentals of Python programming from scratch. This course covers variables, data types, functions, and basic programming concepts.",
   "instructor": "Administrator",
   "category": "Programming",
@@ -8,26 +9,6 @@
   "published": true,
   "tags": ["python", "programming", "beginner", "coding"],
   "image_url": "https://plus.unsplash.com/premium_photo-1667480556783-119d25e19d6e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZHVtbXl8ZW58MHx8MHx8fDA%3D",
-  "chapters": [
-    {
-      "title": "Getting Started with Python",
-      "file": "chapters/01-introduction",
-      "order": 1,
-      "duration": "45 minutes"
-    },
-    {
-      "title": "Variables and Data Types",
-      "file": "chapters/02-variables",
-      "order": 2,
-      "duration": "60 minutes"
-    },
-    {
-      "title": "Control Structures",
-      "file": "chapters/03-functions",
-      "order": 3,
-      "duration": "75 minutes"
-    }
-  ],
   "assets": {
     "thumbnail": "assets/images/python-basics-thumb.jpg",
     "intro_video": "assets/videos/course-intro.mp4"
