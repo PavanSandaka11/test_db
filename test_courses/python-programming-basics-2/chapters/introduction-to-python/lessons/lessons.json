@@ -1,0 +1,42 @@
+{
+  "course": "python-programming-basics-2",
+  "chapter": "introduction-to-python",
+  "lessons": [
+    {
+      "title": "test 4th lesson",
+      "slug": "test-4th-lesson",
+      "lesson_order": 0,
+      "duration": "",
+      "difficulty": "Beginner",
+      "prerequisites": [],
+      "objectives": []
+    },
+    {
+      "title": "test 4th lesson",
+      "slug": "test-4th-lesson",
+      "lesson_order": 0,
+      "duration": "",
+      "difficulty": "Beginner",
+      "prerequisites": [],
+      "objectives": []
+    },
+    {
+      "title": "test 4th lesson",
+      "slug": "test-4th-lesson",
+      "lesson_order": 0,
+      "duration": "",
+      "difficulty": "Beginner",
+      "prerequisites": [],
+      "objectives": []
+    },
+    {
+      "title": "test 4th lesson",
+      "slug": "test-4th-lesson",
+      "lesson_order": 0,
+      "duration": "",
+      "difficulty": "Beginner",
+      "prerequisites": [],
+      "objectives": []
+    }
+  ]
+}
