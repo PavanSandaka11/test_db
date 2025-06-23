@@ -46,3 +46,4 @@ Python combines simplicity with power, making it an ideal first programming lang
 
 ## Next Up
 Ready to get Python running on your computer? Let's move on to installation!
+
