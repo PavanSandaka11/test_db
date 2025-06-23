@@ -2,19 +2,14 @@
   "title": "Introduction to Python",
   "chapter_slug": "introduction-to-python",
   "chapter_order": 1,
-  "description": "Get started with Python programming - learn what it is, install it, and write your first programs",
-  "status": "published",
-  "estimated_duration": "30 minutes",
-  "difficulty": "beginner",
-  "prerequisites": [],
-  "learning_objectives": [
-    "Understand what Python is and its applications",
-    "Install Python on your system",
-    "Write and run your first Python program",
-    "Practice basic Python syntax through exercises"
-  ],
-  "tags": ["python", "programming", "beginner", "introduction", "setup"],
-  "created_at": "2024-06-21T00:00:00Z",
-  "updated_at": "2024-06-21T00:00:00Z",
+  "course": "python-programming-basics",
+  "course_title": "Python Programming Basics",
+  "is_scorm_package": false,
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "manifest_file": null,
+  "launch_file": null,
+  "created_at": "2025-06-24T00:05:11.841277",
+  "updated_at": "2025-06-24T00:06:01.641687",
   "version": "1.0"
 }

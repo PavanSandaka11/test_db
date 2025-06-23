@@ -1,45 +1,51 @@
 {
-  "course_slug": "python-programming-basics",
-  "chapter_slug": "introduction-to-python",
+  "course": "python-programming-basics",
+  "chapter": "introduction-to-python",
   "lessons": [
     {
       "title": "What is Python and Why Learn It?",
       "slug": "what-is-python-and-why-learn-it",
       "lesson_order": 1,
-      "duration": "15 minutes",
-      "difficulty": "beginner",
+      "duration": "",
+      "difficulty": "Beginner",
       "prerequisites": [],
-      "objectives": [
-        "Understand what Python is and its history",
-        "Learn about Python's applications and benefits",
-        "Recognize why Python is popular for beginners"
-      ]
+      "objectives": []
     },
     {
       "title": "Installing Python",
       "slug": "installing-python",
       "lesson_order": 2,
-      "duration": "10 minutes",
-      "difficulty": "beginner",
+      "duration": "",
+      "difficulty": "Beginner",
       "prerequisites": [],
-      "objectives": [
-        "Install Python on your operating system",
-        "Verify Python installation",
-        "Set up a development environment"
-      ]
+      "objectives": []
     },
     {
       "title": "Your First Python Program",
       "slug": "your-first-python-program",
       "lesson_order": 3,
-      "duration": "8 minutes",
-      "difficulty": "beginner",
-      "prerequisites": ["installing-python"],
-      "objectives": [
-        "Write your first Python program",
-        "Understand basic Python syntax",
-        "Run Python code in different ways"
-      ]
+      "duration": "",
+      "difficulty": "Beginner",
+      "prerequisites": [],
+      "objectives": []
+    },
+    {
+      "title": "new lesson",
+      "slug": "new-lesson",
+      "lesson_order": 4,
+      "duration": "",
+      "difficulty": "Beginner",
+      "prerequisites": [],
+      "objectives": []
+    },
+    {
+      "title": "one more new lesson",
+      "slug": "one-more-new-lesson",
+      "lesson_order": 5,
+      "duration": "",
+      "difficulty": "Beginner",
+      "prerequisites": [],
+      "objectives": []
     }
   ]
 }
