@@ -3,8 +3,8 @@
   "chapter": "introduction-to-python",
   "lessons": [
     {
-      "title": "test 4th lesson",
-      "slug": "test-4th-lesson",
+      "title": "test lesson",
+      "slug": "test-lesson",
       "lesson_order": 0,
       "duration": "",
       "difficulty": "Beginner",
@@ -12,27 +12,27 @@
       "objectives": []
     },
     {
-      "title": "test 4th lesson",
-      "slug": "test-4th-lesson",
-      "lesson_order": 0,
+      "title": "What is Python and Why Learn It?",
+      "slug": "what-is-python-and-why-learn-it",
+      "lesson_order": 1,
       "duration": "",
       "difficulty": "Beginner",
       "prerequisites": [],
       "objectives": []
     },
     {
-      "title": "test 4th lesson",
-      "slug": "test-4th-lesson",
-      "lesson_order": 0,
+      "title": "Installing Python",
+      "slug": "installing-python",
+      "lesson_order": 2,
       "duration": "",
       "difficulty": "Beginner",
       "prerequisites": [],
       "objectives": []
     },
     {
-      "title": "test 4th lesson",
-      "slug": "test-4th-lesson",
-      "lesson_order": 0,
+      "title": "Your First Python Program",
+      "slug": "your-first-python-program",
+      "lesson_order": 3,
       "duration": "",
       "difficulty": "Beginner",
       "prerequisites": [],
