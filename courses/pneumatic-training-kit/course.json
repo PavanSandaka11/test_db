@@ -1,7 +1,7 @@
 {
-  "course_name": "New Course",
-  "slug": "new-course",
-  "description": "Dummy description",
+  "course_name": "Pneumatic Traning Kit",
+  "slug": "pneumatic-training-kit",
+  "description": "Pneumatic Kit Description",
   "instructor": "Administrator",
   "category": "Programming",
   "level": "Beginner",
