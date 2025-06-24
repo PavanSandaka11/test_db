@@ -115,5 +115,5 @@ To study and operate a single-acting pneumatic cylinder and observe the effect o
 This experiment demonstrates that a flow controller can effectively regulate the speed of a single-acting cylinder by varying the flow rate of the compressed air.
 
 
-<!-- UNSUPPORTED_BLOCK:{"id": "CyRZo4NedP", "type": "quiz", "data": {"quiz": "quiz-test-1"}} -->
+<!-- QUIZ:{"id": "CyRZo4NedP", "type": "quiz", "data": {"quiz": "quiz-test-1"}} -->
 

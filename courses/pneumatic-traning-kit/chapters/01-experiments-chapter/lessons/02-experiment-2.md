@@ -5,7 +5,7 @@ lesson_order: 2
 difficulty: Beginner
 ---
 
-<!-- UNSUPPORTED_BLOCK:{"id": "CyRZo4NedP", "type": "quiz", "data": {"quiz": "quiz-test-1"}} -->
+<!-- QUIZ:{"id": "CyRZo4NedP", "type": "quiz", "data": {"quiz": "quiz-test-1"}} -->
 
 <!-- EMPTY_MARKDOWN -->
 
