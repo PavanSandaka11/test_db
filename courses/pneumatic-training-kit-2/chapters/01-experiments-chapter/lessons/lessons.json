@@ -1,0 +1,24 @@
+{
+  "course": "pneumatic-training-kit-2",
+  "chapter": "experiments-chapter",
+  "lessons": [
+    {
+      "title": "Experiment 1",
+      "slug": "experiment-1",
+      "lesson_order": 1,
+      "duration": "",
+      "difficulty": "Beginner",
+      "prerequisites": [],
+      "objectives": []
+    },
+    {
+      "title": "Experiment 2 test",
+      "slug": "experiment-2-test",
+      "lesson_order": 2,
+      "duration": "",
+      "difficulty": "Beginner",
+      "prerequisites": [],
+      "objectives": []
+    }
+  ]
+}
