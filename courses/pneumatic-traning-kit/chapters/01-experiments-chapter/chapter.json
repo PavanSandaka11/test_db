@@ -1,0 +1,15 @@
+{
+  "title": "Experiments Chapter",
+  "chapter_slug": "experiments-chapter",
+  "chapter_order": 1,
+  "course": "pneumatic-traning-kit",
+  "course_title": "Pneumatic Traning Kit",
+  "is_scorm_package": false,
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "manifest_file": null,
+  "launch_file": null,
+  "created_at": "2025-06-24T12:56:35.642237",
+  "updated_at": "2025-06-24T12:56:35.642237",
+  "version": "1.0"
+}
