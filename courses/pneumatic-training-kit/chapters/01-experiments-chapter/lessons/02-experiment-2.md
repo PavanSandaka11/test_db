@@ -1,6 +1,6 @@
 ---
-title: Experiment 2 test
-slug: experiment-2-test
+title: Experiment 2
+slug: experiment-2
 lesson_order: 2
 difficulty: Beginner
 ---
