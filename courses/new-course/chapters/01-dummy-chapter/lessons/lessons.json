@@ -1,0 +1,15 @@
+{
+  "course": "new-course",
+  "chapter": "dummy-chapter",
+  "lessons": [
+    {
+      "title": "dummy lesson 1",
+      "slug": "dummy-lesson-1",
+      "lesson_order": 1,
+      "duration": "",
+      "difficulty": "Beginner",
+      "prerequisites": [],
+      "objectives": []
+    }
+  ]
+}
