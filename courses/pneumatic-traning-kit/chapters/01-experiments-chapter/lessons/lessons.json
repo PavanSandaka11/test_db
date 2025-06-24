@@ -10,6 +10,15 @@
       "difficulty": "Beginner",
       "prerequisites": [],
       "objectives": []
+    },
+    {
+      "title": "Experiment 2",
+      "slug": "experiment-2",
+      "lesson_order": 2,
+      "duration": "",
+      "difficulty": "Beginner",
+      "prerequisites": [],
+      "objectives": []
     }
   ]
 }
