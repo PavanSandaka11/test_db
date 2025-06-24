@@ -1,5 +1,5 @@
 {
-  "course_name": "Python Programming Basics",
+  "name": "Python Programming Basics",
   "slug": "python-programming-basics",
   "description": "Learn the fundamentals of Python programming from scratch. This course covers variables, data types, functions, and basic programming concepts.",
   "instructor": "Administrator",

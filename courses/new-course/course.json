@@ -1,5 +1,5 @@
 {
-  "course_name": "New Course",
+  "name": "New Course",
   "slug": "new-course",
   "description": "Dummy description",
   "instructor": "Administrator",
