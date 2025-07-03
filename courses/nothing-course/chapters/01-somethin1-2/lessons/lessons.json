@@ -1,0 +1,15 @@
+{
+  "course": "nothing-course",
+  "chapter": "somethin1-2",
+  "lessons": [
+    {
+      "title": "nothing lesson",
+      "slug": "nothing-lesson",
+      "lesson_order": 1,
+      "duration": "",
+      "difficulty": "Beginner",
+      "prerequisites": [],
+      "objectives": []
+    }
+  ]
+}

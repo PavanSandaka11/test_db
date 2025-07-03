@@ -1,0 +1,15 @@
+{
+  "title": "somethin1",
+  "chapter_slug": "somethin1-2",
+  "chapter_order": 1,
+  "course": "nothing-course",
+  "course_title": "nothing_course",
+  "is_scorm_package": false,
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "manifest_file": null,
+  "launch_file": null,
+  "created_at": "2025-07-03T16:52:54.331973",
+  "updated_at": "2025-07-03T16:53:46.910365",
+  "version": "1.0"
+}
